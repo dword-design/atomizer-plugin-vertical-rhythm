@@ -1,0 +1,32 @@
+{
+  "name": "@dword-design/atomizer-plugin-vertical-rhythm",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "dword-design/atomizer-plugin-vertical-rhythm",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "depgraph": "base depgraph",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "modularscale": "^2.0.1",
+    "postcss-custom-unit": "^1.0.0",
+    "postcss-functions": "^3.0.0"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^5.3.1",
+    "@dword-design/functions": "^2.7.2",
+    "@dword-design/nuxt-atomizer": "^1.0.0",
+    "axios": "^0.19.2",
+    "fs-extra": "^8.1.0",
+    "nuxt": "^2.11.0",
+    "with-local-tmp-dir": "^2.2.7"
+  }
+}
