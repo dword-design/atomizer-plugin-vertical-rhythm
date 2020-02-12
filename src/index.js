@@ -2,22 +2,22 @@ import postcssCustomUnit from 'postcss-custom-unit'
 import postcssFunctions from 'postcss-functions'
 import modularscale from 'modularscale'
 
-export default ({ grid = 12, fontSize = 16, capHeight = .68 } = {}) => {
-  
+export default ({ verticalRhythm = 12, fontSize = 16, capHeight = .68, modularScale } = {}) => {
+
   const shift = (fontSize, lineHeight) =>
     `${(parseFloat(lineHeight) - parseFloat(fontSize) * capHeight) / 2}rem`
-  
+
   return {
     postcssPlugins: [
       postcssCustomUnit({
         units: [
           {
             from: 'ms',
-            convert: value => `${modularscale(value)}rem`,
+            convert: value => `${modularscale(value, modularScale)}rem`,
           },
           {
             from: 'vr',
-            convert: value => `${value * grid / fontSize}rem`,
+            convert: value => `${value * verticalRhythm / fontSize}rem`,
           },
         ],
       }),
