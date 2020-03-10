@@ -51,7 +51,7 @@ export default {
       nuxt.close()
     }
   }),
-  units: () => withLocalTmpDir(__dirname, async () => {
+  units: () => withLocalTmpDir(async () => {
     await outputFile('pages/index.js', endent`
       export default {
         render: () => <div class="P(2vr) Fz(1ms)">Hello world</div>,
