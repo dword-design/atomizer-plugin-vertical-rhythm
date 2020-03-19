@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.2...v1.1.3) (2020-03-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency fs-extra to v9 ([0930b7a](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/0930b7a5cd064b210798e4dcace372dcc376160c))
+
 ## [1.1.2](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.1...v1.1.2) (2020-03-10)
 
 
