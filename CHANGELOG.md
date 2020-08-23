@@ -1,3 +1,11 @@
+## [1.1.4](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.3...v1.1.4) (2020-08-23)
+
+
+### Bug Fixes
+
+* build files ([4a5d5b6](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/4a5d5b658795ab9896ab40545502f0381ed2ac23))
+* **deps:** update dependency axios to ^0.20.0 ([b032693](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/b03269343744289ba94f57a6cafbce604002b87b))
+
 ## [1.1.3](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.2...v1.1.3) (2020-03-19)
 
 
