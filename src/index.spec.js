@@ -64,7 +64,7 @@ export default {
             |> await
             |> property('data')
         ).toEqual(
-          '.R\\(0ms\\,2vr\\){font-size:1rem;line-height:1.5rem;margin-bottom:-.41rem;padding-top:.41rem}'
+          '.R\\(0ms\\,2vr\\){font-size:1rem;line-height:1.5rem;margin-bottom:-0.41rem;padding-top:0.41rem}'
         )
       } finally {
         nuxt.close()
