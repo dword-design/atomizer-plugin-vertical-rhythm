@@ -21,7 +21,7 @@
   "dependencies": {
     "modularscale": "^2.0.1",
     "postcss-custom-unit": "^1.0.0",
-    "postcss-functions": "^3.0.0"
+    "postcss-functions": "^4.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^7.0.0",
