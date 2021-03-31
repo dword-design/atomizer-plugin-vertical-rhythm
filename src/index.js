@@ -4,10 +4,12 @@ import postcssFunctions from 'postcss-functions'
 
 export default config => {
   config = { capHeight: 0.68, fontSize: 16, verticalRhythm: 12, ...config }
+
   const shift = (fontSize, lineHeight) =>
     `${
       (parseFloat(lineHeight) - parseFloat(fontSize) * config.capHeight) / 2
     }rem`
+
   return {
     postcssPlugins: [
       postcssCustomUnit({

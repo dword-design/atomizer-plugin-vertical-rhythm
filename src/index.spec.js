@@ -18,6 +18,7 @@ export default {
       }
     `
       )
+
       const nuxt = new Nuxt({
         atomizer: {
           plugins: [self({ modularScale: 'minor second' })],
@@ -49,6 +50,7 @@ export default {
       }
     `
       )
+
       const nuxt = new Nuxt({
         atomizer: {
           plugins: [self()],
@@ -80,6 +82,7 @@ export default {
       }
     `
       )
+
       const nuxt = new Nuxt({
         atomizer: {
           plugins: [self()],
