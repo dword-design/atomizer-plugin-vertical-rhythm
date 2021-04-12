@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.12...v1.1.13) (2021-04-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#19](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/issues/19)) ([13c891d](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/13c891d4d66117b244219cceccde8f8492c41703))
+
 ## [1.1.12](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.11...v1.1.12) (2021-03-31)
 
 
