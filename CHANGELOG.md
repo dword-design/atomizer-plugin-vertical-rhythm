@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.15...v1.1.16) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v3 ([#25](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/issues/25)) ([d551ca0](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/d551ca0c9a72e9167307764bd4c5016d8a9d3b14))
+
 ## [1.1.15](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.14...v1.1.15) (2021-04-22)
 
 
