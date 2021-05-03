@@ -1,3 +1,10 @@
+## [1.1.18](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.17...v1.1.18) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#31](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/issues/31)) ([712086f](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/712086f99a1de2c5b418867e640f20aba2629e07))
+
 ## [1.1.17](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.16...v1.1.17) (2021-04-28)
 
 
