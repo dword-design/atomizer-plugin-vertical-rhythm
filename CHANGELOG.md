@@ -1,3 +1,12 @@
+## [1.1.19](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.18...v1.1.19) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4 ([#32](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/issues/32)) ([98e83ad](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/98e83ada3a8118ec83d1bf93f368b01b49ed7b17))
+* update dependency fs-extra to v10 ([#33](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/issues/33)) ([488b7c4](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/488b7c420960254372c50d7b7f76e3312e5246d0))
+* update dependency with-local-tmp-dir to v4 ([#34](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/issues/34)) ([f0cf7d9](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/f0cf7d9b692b74dca686d9c79c3430c6db15340c))
+
 ## [1.1.18](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.17...v1.1.18) (2021-05-03)
 
 
