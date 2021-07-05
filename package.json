@@ -2,7 +2,7 @@
   "name": "@dword-design/atomizer-plugin-vertical-rhythm",
   "version": "1.1.21",
   "repository": "dword-design/atomizer-plugin-vertical-rhythm",
-  "funding": "https://www.buymeacoffee.com/dword",
+  "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "main": "dist/index.js",
