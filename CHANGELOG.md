@@ -1,3 +1,10 @@
+## [1.1.24](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.23...v1.1.24) (2021-07-20)
+
+
+### Bug Fixes
+
+* replace @dword-design/nuxt-atomizer ([#45](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/issues/45)) ([7abe781](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/commit/7abe781c13d465d5b0e26182ec23801143997e64))
+
 ## [1.1.23](https://github.com/dword-design/atomizer-plugin-vertical-rhythm/compare/v1.1.22...v1.1.23) (2021-07-20)
 
 
