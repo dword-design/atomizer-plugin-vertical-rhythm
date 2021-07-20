@@ -1,6 +1,6 @@
 import { endent, property } from '@dword-design/functions'
-import atomizerModule from '@dword-design/nuxt-atomizer'
 import axios from 'axios'
+import packageName from 'depcheck-package-name'
 import { outputFile } from 'fs-extra'
 import { Builder, Nuxt } from 'nuxt'
 import withLocalTmpDir from 'with-local-tmp-dir'
@@ -24,7 +24,7 @@ export default {
           plugins: [self({ modularScale: 'minor second' })],
         },
         dev: false,
-        modules: [atomizerModule],
+        modules: [packageName`nuxt-atomizer`],
       })
       await new Builder(nuxt).build()
       try {
@@ -56,7 +56,7 @@ export default {
           plugins: [self()],
         },
         dev: false,
-        modules: [atomizerModule],
+        modules: [packageName`nuxt-atomizer`],
       })
       await new Builder(nuxt).build()
       try {
@@ -88,7 +88,7 @@ export default {
           plugins: [self()],
         },
         dev: false,
-        modules: [atomizerModule],
+        modules: [packageName`nuxt-atomizer`],
       })
       await new Builder(nuxt).build()
       try {
